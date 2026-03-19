@@ -5,7 +5,7 @@
 
 <p align="center">
   🇵🇭 Philippines · 10+ years in Game & Platform QA<br/>
-  Focused on quality, test design, and backend validation
+  <b>Focused on quality, test design, API Core Logic, and Scalable Automation</b>
 </p>
 
 ---
@@ -19,23 +19,16 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Ecosystem & Toolbelt
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
-  </a>
-  <a href="https://postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
-  </a>
-  <a href="https://www.selenium.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="36"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" title="Playwright"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" title="Selenium"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub Actions"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
 </p>
 
 ---
