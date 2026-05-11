@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  🇵🇭 Philippines · 10+ years in Game & Platform QA<br/>
+  🇵🇭 Philippines · 10+ years in Software QA<br/>
   <b>Focused on quality, test design, API Core Logic, and Scalable Automation</b>
 </p>
 
