@@ -1,36 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
-<h3 align="center">
-  Senior Software Quality Assurance Engineer · API & Backend Testing
-</h3>
 
 <p align="center">
-  🇵🇭 Philippines · 10+ years in Software QA<br/>
-  <b>Focused on quality, test design, API Core Logic, and Scalable Automation</b>
+  <img src="https://img.shields.io/badge/QA%20Engineer-Senior-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-API%20%26%20Automation-green?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- API & backend tester with strong Postman expertise  
-- JavaScript & TypeScript for test scripting  
-- Game logic & win/maths validation  
-- Works closely with engineers during early development  
-- Experience in Agile, PR reviews, and test coverage improvement  
+- **Core Focus:** API & backend automation with deep Postman expertise
+- **Languages:** JavaScript & TypeScript test scripting
+- **Domain:** Game logic verification, payout & math validation
+- **Process:** Shift-left QA, Agile collaboration, PR code reviews, and test strategy optimization
 
 ---
 
-### 🛠️ Ecosystem & Toolbelt
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" title="Playwright"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" title="Selenium"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub Actions"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+> 💡 Most of my professional work is maintained in private enterprise repositories.
+
 ---
 
-> 💡 Most of my professional work is in private company repositories.
+### 📊 GitHub Stats:
+
+![](https://streak-stats.demolab.com/?user=vgwellen&theme=dark&hide_border=false)<br/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vgwellen&color=blue" alt="Profile Views" />
+</p>
