@@ -30,12 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com/?user=vgwellen&theme=dark&hide_border=false)<br/>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vgwellen&color=blue" alt="Profile Views" />
 </p>
